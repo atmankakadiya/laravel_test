@@ -23,12 +23,12 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ## Run Project
 
-step - create a database name: testing_task
-composer update
-npm install
-npm run 
-run - php artisan migrate
-run - php artisan serve
+    step - create a database name: testing_task
+    composer update
+    npm install
+    npm run 
+    run - php artisan migrate
+    run - php artisan serve
 
 http://127.0.0.1:8000/roles 
 
